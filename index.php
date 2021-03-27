@@ -29,10 +29,9 @@
                         </div>
                         <div class="subcontent col-md-6"><!--Text holder with 6 column grid-->
                             <h1>Wedding</h1><!--title-->
-                            <p><!--content-->
-                            The most important day in a couple's life.
-                            Guaranteeing personalized solutions and flawless execution, our venues provide the perfect
-                            location for your special day.
+                            <p><b><!--content-->
+                            ELEGANTLY DESIGNED, ECLECTICALLY CURATED, IMPECCABLY PLANNED...</b>
+                            <p>Nothing is as special as Wedding Day in couple's life. Our mission is to create refined and elegant boutique weedding's at perfect location for ypur sepcial day.</p>
                             </p>
                             <hr class="customline"><!--css modified horizontal line-->
                             <button type="button" class="btn btn-default btn-lg"><!--view event button (no function implemented)-->
@@ -58,9 +57,8 @@
                         <div class="subcontent col-md-6"><!--Text holder with 6 column grid-->
                             <h1>Birthday</h1><!--title-->
                             <p><!--content-->
-                            Whether an all-day or the ultimate extravaganza that
-                            lasts well into the wee hours, our Urban Events team is here to make sure all your birthday
-                            party wishes come true so you can kick back, drink up and enjoy your special day!
+                            <b>A new chapter of life for you , begins TODAY. <br> Say GOODBYE to your PAST and pave the way fro FUTURE.</b>
+                            <P>We make sure that all your wish come true so you can kick back, drink up, enjoy your special day and start a new chapter of your life.</P>
                             </p>
                             <hr class="customline"><!--css modified horizontal line-->
                             <button type="button" class="btn btn-default btn-lg"><!--view event button (no function implemented)-->
@@ -92,9 +90,8 @@
                         <div class="subcontent col-md-6"><!--Text holder with 6 column grid-->
                             <h1>Meeting</h1><!--title-->
                             <p><!--content-->
-                            From formal, to not-so-formal, our flexible event
-                            spaces can cater to your every need for meetings and conferences large or small, and our
-                            dedicated event team can assist with all aspects of your event planning.
+                            <b>Alone we can do so LITTLE; <br> Together we can do SO MUCH.</b>
+                            <p>From formal, to not-so-formal, our flexible event spaces can cater to your every need for meetings and conferences large or small, and our dedicated event team can assist with all aspects of your event planning.</p>
                             </p>
                             <hr class="customline"><!--css modified horizontal line-->
                             <button type="button" class="btn btn-default btn-lg"><!--view event button (no function implemented)-->

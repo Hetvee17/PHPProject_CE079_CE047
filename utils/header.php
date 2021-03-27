@@ -82,11 +82,11 @@
     <div class = "col-md-12">
         <div class = "container">
             <div class = "jumbotron"><!--jumbotron-->
-                <h1>That Events</h1><!--jumbotron heading-->
                 <p><!--jumbotron content-->
-                Whether you're looking to book a cocktail party, post-work gathering, celebratory function, conference, business
-                meeting, wedding or private dining event, our dedicated That Events team can create a package that will meet
-                your every need.
+                    Life is an Event, Make it Remarkable...!
+                    <p>
+                    One of the leading Event Management Company with creative delivering exceptional event experiences. We promise to create unforgettable moments for you, for loved nes which shall become memories to cherised forever.
+                    </p>   
                 </p>
                 <p id="dateAndTime"></p>
             </div>

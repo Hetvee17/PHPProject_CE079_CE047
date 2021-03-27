@@ -1,19 +1,23 @@
 /*body style*/
+
 body {
     overflow-x: hidden;
 }
 
+
 /*background image style for header*/
+
 .bgImage {
     background-image: url(../images/logo.jpeg);
     background-size: cover;
     background-position: center center;
-    height: 400px;
+    height: 500px;
     margin-bottom: 29px;
     filter: blur(5px);
     background-repeat:no-repeat;
 }
 
+<<<<<<< HEAD
 .blurcon {
     background:rgba(255, 255, 255, 0.3);
     color:white;
@@ -22,26 +26,37 @@ body {
     position:absolute;
     top: 50%;
 }
+=======
+
+>>>>>>> a60d86b3c5ade72f23d4931fce545219a420f224
 /*global horizontal line style*/
+
 hr {
     border-top: 1px solid #7F8C8D;
     margin-top: 40px;
     margin-bottom: 40px;
 }
 
+
 /*index page subcontents styles*/
-.subcontent > h1 {
+
+.subcontent>h1 {
     margin-top: -5px;
     color: #2C3E50;
     letter-spacing: 3px;
 }
-.subcontent > p {
+
+.subcontent>p {
     color: #7F8C8D;
     line-height: 2;
 }
+
+
 /*------*/
 
+
 /*Header styles*/
+
 header .navbar {
     padding: 20px 0;
     font-family: 'Montserrat', sans-serif;
@@ -64,8 +79,10 @@ header .btnlogout a {
     padding-top: 5px;
 }
 
+
 /*underline animation for nav menus*/
-header .navbar-nav a:before{
+
+header .navbar-nav a:before {
     content: "";
     position: absolute;
     width: 100%;
@@ -84,9 +101,9 @@ header .navbar-nav a:hover:before {
     visibility: visible;
     -webkit-transform: scaleX(1);
     transform: scaleX(1);
-    //background-color: transparent;
-    //color: #bdc3c7;
-    //border-bottom: 3px solid #ecf0f1;
+    background-color: transparent;
+    color: #bdc3c7;
+    border-bottom: 3px solid #ecf0f1;
 }
 
 header .navbar-nav .btnlogout a:hover:before {
@@ -94,6 +111,8 @@ header .navbar-nav .btnlogout a:hover:before {
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
 }
+
+
 /*---*/
 
 header .navbar-nav a:hover {
@@ -135,9 +154,11 @@ header .navbar-nav .btn:active {
     background-color: #bdc3c7;
     color: black;
 }
+
+
 /* --- */
 
-.jumbotron { 
+.jumbotron {
     background-color: transparent;
     color: #ecf0f1;
     text-align: center;
@@ -145,21 +166,29 @@ header .navbar-nav .btn:active {
     text-shadow: 2px 2px black;
 }
 
+
 /*horizontal line style for footer*/
-.footerline { 
+
+.footerline {
     margin-top: 40 px;
     margin-bottom: 0px;
 }
+
+
 /*---*/
 
+
 /*body content style*/
-.content { 
+
+.content {
     font-family: 'Montserrat', sans-serif;
     color: #2C3E50;
 }
 
+
 /*horizontal line for body contents*/
-.customline { 
+
+.customline {
     margin-top: 25%;
     margin-bottom: 15px;
 }
@@ -174,12 +203,12 @@ header .navbar-nav .btn:active {
     color: #757575;
 }
 
-.subcontent .customline2{
+.subcontent .customline2 {
     margin-top: 36px;
     margin-bottom: 15px;
 }
 
-.subcontent .customline3{
+.subcontent .customline3 {
     margin-top: 20px;
     margin-bottom: 15px;
 }
@@ -208,10 +237,14 @@ header .navbar-nav .btn:active {
     color: #616161;
     font-weight: bold;
 }
+
+
 /*---*/
 
+
 /*footer styles*/
-footer { 
+
+footer {
     font-family: 'Montserrat', sans-serif;
     color: #E0E0E0;
     line-height: 1.5;
@@ -219,7 +252,7 @@ footer {
     padding-top: 30px;
 }
 
-.footerContent > .footerContent1 {
+.footerContent>.footerContent1 {
     font-size: 40px;
     line-height: 1;
 }
@@ -228,7 +261,7 @@ footer {
     color: #95a5a6;
 }
 
-.footerContent > .footerSubtext2 {
+.footerContent>.footerSubtext2 {
     color: #95a5a6;
     font-size: 14px;
 }
@@ -236,9 +269,13 @@ footer {
 .footcontent {
     color: #E0E0E0;
 }
+
+
 /*---*/
 
+
 /*styles for all modal footer*/
+
 .modal-footer {
     padding-top: 10px;
     padding-bottom: 5px;
@@ -249,7 +286,9 @@ footer {
     font-size: 36px;
 }
 
+
 /*location modal body content*/
+
 .modaltext1 h5 {
     font-weight: bold;
     line-height: 1.5;
@@ -264,13 +303,18 @@ footer {
     margin-top: 20px;
     line-height: 1.5;
 }
+
+
 /*---*/
 
-.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
-  background-color: #BDBDBD;
+.table-hover tbody tr:hover td,
+.table-hover tbody tr:hover th {
+    background-color: #BDBDBD;
 }
 
+
 /*modal button styles*/
+
 header .modal-footer .closebtn:hover {
     background: #EF5350;
     color: #FFEBEE;
@@ -290,30 +334,44 @@ header .modal-body .rgsterbtn:hover {
     background: #EF5350;
     color: #FFEBEE;
 }
+
+
 /*---*/
 
+
 /*text color for error messages in forms*/
+
 .error {
     color: #EF5350;
 }
+
+
 /*---*/
 
+
 /*date and time style, placed within the jumbotron*/
+
 #dateAndTime {
     font-size: 24px;
 }
+
+
 /*---*/
 
+
 /*styles for contact us page*/
-.contacts > h1 {
+
+.contacts>h1 {
     line-height: 2;
 }
 
-.contacts > p {
+.contacts>p {
     line-height: 2;
 }
 
 textarea {
     resize: none;
 }
+
+
 /*---*/
