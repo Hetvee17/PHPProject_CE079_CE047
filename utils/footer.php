@@ -6,13 +6,13 @@
                 <div class = "footerContent col-md-4"><!--left -->
                    
                     <p class = "footerSubtext2">
-                        CE048 - HetveeSakaria
+                        CE048 - Hetvee Sakaria
                     </p>
                 </div>
             </section>
             <section>
                 <div class = "footcontent col-md-4"><!--middle -->
-                    CE079 - RuchitaOza
+                    CE079 - Ruchita Oza
                 </div>
             </section>
             <section>
