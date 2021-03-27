@@ -8,27 +8,13 @@ body {
 /*background image style for header*/
 
 .bgImage {
-    background-image: url(../images/logo.jpeg);
+    background-image: url(../images/blurlogo.jpg);
     background-size: cover;
     background-position: center center;
-    height: 500px;
     margin-bottom: 29px;
-    filter: blur(5px);
-    background-repeat:no-repeat;
+    
 }
 
-<<<<<<< HEAD
-.blurcon {
-    background:rgba(255, 255, 255, 0.3);
-    color:white;
-    display:flex;
-    background-size: cover;
-    position:absolute;
-    top: 50%;
-}
-=======
-
->>>>>>> a60d86b3c5ade72f23d4931fce545219a420f224
 /*global horizontal line style*/
 
 hr {
@@ -61,7 +47,6 @@ header .navbar {
     padding: 20px 0;
     font-family: 'Montserrat', sans-serif;
 }
-
 header .navbar-header a::first-letter {
     border-bottom: 2px solid #ecf0f1;
 }

@@ -1,5 +1,4 @@
 <header class="bgImage">
-    <div class="blurcon">
     <nav class="navbar">
         <div class="container">
             <div class="navbar-header"><!--website name/title-->
@@ -82,15 +81,20 @@
     <div class = "col-md-12">
         <div class = "container">
             <div class = "jumbotron"><!--jumbotron-->
+                <p>Life is an Event, Make it Remarkable...!</p><!--jumbotron heading-->
                 <p><!--jumbotron content-->
-                    Life is an Event, Make it Remarkable...!
-                    <p>
-                    One of the leading Event Management Company with creative delivering exceptional event experiences. We promise to create unforgettable moments for you, for loved nes which shall become memories to cherised forever.
+                One of the leading Event Management Company with creative delivering exceptional event experiences. We promise to create unforgettable moments for you, for loved nes which shall become memories to cherised forever.
                     </p>   
                 </p>
                 <p id="dateAndTime"></p>
             </div>
         </div>
     </div>
+</header>
+
+                </p>
+                <p id="dateAndTime"></p>
+            </div>
+        </div>
     </div>
 </header>
