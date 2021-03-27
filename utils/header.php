@@ -1,4 +1,5 @@
 <header class="bgImage">
+    <div class="blurcon">
     <nav class="navbar">
         <div class="container">
             <div class="navbar-header"><!--website name/title-->
@@ -90,5 +91,6 @@
                 <p id="dateAndTime"></p>
             </div>
         </div>
+    </div>
     </div>
 </header>

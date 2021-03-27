@@ -77,28 +77,6 @@
             </div>
             </div>
 
-            <div class="row">
-                <section>
-                    <div class="container">
-                        <div class="col-md-6"><!--image holder with 6 grid columns-->
-                            <img src="images/fashion2.jpg" class="img-responsive">
-                        </div>
-                        <div class="subcontent col-md-6"><!--Text holder with 6 column grid-->
-                            <h1>Fashion</h1><!--title-->
-                            <p><!--content-->
-                            Fast becoming to go-to location for fashion events, PR gatherings and product launches, 
-                            The Urban Purveyor Group venues provide you with choice and quality in premium locations 
-                            for all your event needs.
-                            </p>
-                            <hr class="customline"><!--css modified horizontal line-->
-                            <button type="button" class="btn btn-default btn-lg"><!--view event button (no function implemented)-->
-                            View Events  <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><!--arrow right glyphicon-->
-                            </button> 
-                        </div><!--subcontent div-->
-                    </div><!--container div-->
-                </section>
-            </div><!--row div-->
-			
             <div class="container">
             <div class="col-md-12">
                 <hr>

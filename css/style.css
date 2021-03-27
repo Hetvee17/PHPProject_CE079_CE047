@@ -10,8 +10,18 @@ body {
     background-position: center center;
     height: 400px;
     margin-bottom: 29px;
+    filter: blur(5px);
+    background-repeat:no-repeat;
 }
 
+.blurcon {
+    background:rgba(255, 255, 255, 0.3);
+    color:white;
+    display:flex;
+    background-size: cover;
+    position:absolute;
+    top: 50%;
+}
 /*global horizontal line style*/
 hr {
     border-top: 1px solid #7F8C8D;
