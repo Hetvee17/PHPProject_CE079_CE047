@@ -40,7 +40,7 @@ if (!$row) {
                     <thead><!--table labels-->
                         <tr>
                             <th>Event ID</th>
-                            <th>Title</th>
+                            <th>Event Name</th>
                             <th>Description</th>                    
                             <th>Start Date</th>
                             <th>End Date</th>
@@ -53,7 +53,7 @@ if (!$row) {
                         <?php
                         echo '<tr>';
                         echo '<td>' . $row['EventID'] . '</td>';
-                        echo '<td>' . $row['Title'] . '</td>';
+                        echo '<td>' . $row['Event Name'] . '</td>';
                         echo '<td>' . $row['Description'] . '</td>';                    
                         echo '<td>' . $row['StartDate'] . '</td>';
                         echo '<td>' . $row['EndDate'] . '</td>';

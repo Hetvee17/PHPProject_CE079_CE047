@@ -1,18 +1,18 @@
 <?php
 
 function validateEvents($input_method, &$formdata, &$errors) {
-    $formdata['Title'] = filter_input($input_method, "Title", FILTER_SANITIZE_STRING);
+    $formdata['Event Name'] = filter_input($input_method, "Event Name", FILTER_SANITIZE_STRING);
     $formdata['Description'] = filter_input($input_method, "Description", FILTER_SANITIZE_STRING);
     $formdata['StartDate'] = filter_input($input_method, "StartDate", FILTER_SANITIZE_STRING);
     $formdata['EndDate'] = filter_input($input_method, "EndDate", FILTER_SANITIZE_STRING);
     $formdata['Cost'] = filter_input($input_method, "Cost", FILTER_SANITIZE_NUMBER_INT);
     $formdata['LocID'] = filter_input($input_method, "LocID", FILTER_SANITIZE_NUMBER_INT);
 
-    if ($formdata['Title'] === NULL ||
-                    $formdata['Title'] === FALSE ||
-                    $formdata['Title'] === "")
+    if ($formdata['Event Name'] === NULL ||
+                    $formdata['Event Name'] === FALSE ||
+                    $formdata['Event Name'] === "")
     {
-        $errors['Title'] = "Title required";
+        $errors['Event Name'] = "Event Name required";
     }
     
     if ($formdata['Description'] === NULL ||
@@ -26,14 +26,14 @@ function validateEvents($input_method, &$formdata, &$errors) {
                     $formdata['StartDate'] === FALSE ||
                     $formdata['StartDate'] === "")
     {
-        $errors['StartDate'] = "Start Date  required";
+        $errors['StartDate'] = "Pease enter Start Date";
     }
     
     if ($formdata['EndDate'] === NULL ||
                     $formdata['EndDate'] === FALSE ||
                     $formdata['EndDate'] === "")
     {
-        $errors['EndDate'] = "End Date required";
+        $errors['EndDate'] = "Pease enter End Date";
     }
     
     if ($formdata['Cost'] === ""){
