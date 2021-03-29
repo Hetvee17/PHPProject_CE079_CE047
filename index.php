@@ -47,13 +47,7 @@
                             </b>
                         <p>Nothing is as special as Wedding Day in couple's life. Our mission is to create refined and elegant boutique weedding's at perfect location for ypur sepcial day.</p>
                         </p>
-                        <hr class="customline">
-                        <!--css modified horizontal line-->
-                        <button type="button" class="btn btn-default btn-lg">
-                            <!--view event button (no function implemented)-->
-                            View Events <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
-                            <!--arrow right glyphicon-->
-                        </button>
+                        
                     </div>
                     <!--subcontent div-->
                 </div>
@@ -80,13 +74,7 @@
                             <!--content-->
                             <b>A new chapter of life for you , begins TODAY. <br> Say GOODBYE to your PAST and pave the way fro FUTURE.</b>
                         <P>We make sure that all your wish come true so you can kick back, drink up, enjoy your special day and start a new chapter of your life.</P>
-                        </p>
-                        <hr class="customline">
-                        <button type="button" class="btn btn-default btn-lg">
-                            <!--view event button (no function implemented)-->
-                            View Events <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
-                            <!--arrow right glyphicon-->
-                        </button>
+                        </p>                        
                     </div>
                     <!--subcontent div-->
                 </div>
@@ -116,14 +104,7 @@
                             <b>Alone we can do so LITTLE; <br> Together we can do SO MUCH.</b>
                         <p>From formal, to not-so-formal, our flexible event spaces can cater to your every need for meetings and conferences large or small, and our dedicated event team can assist with all aspects of your event planning.</p>
                         </p>
-                        <hr class="customline">
-                        <!--css modified horizontal line-->
-                        <button type="button" class="btn btn-default btn-lg">
-                            <!--view event button (no function implemented)-->
-                            View Events <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
-                            <!--arrow right glyphicon-->
-                        </button>
-                    </div>
+                   </div>
                     <!--subcontent div-->
                 </div>
                 <!--container div-->
