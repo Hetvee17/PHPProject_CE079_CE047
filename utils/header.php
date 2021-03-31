@@ -86,14 +86,6 @@
                 One of the leading Event Management Company with creative delivering exceptional event experiences. We promise to create unforgettable moments for you, for loved nes which shall become memories to cherised forever.
                     </p>   
                 </p>
-                <p id="dateAndTime"></p>
-            </div>
-        </div>
-    </div>
-</header>
-
-                </p>
-                <p id="dateAndTime"></p>
             </div>
         </div>
     </div>

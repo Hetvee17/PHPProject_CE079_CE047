@@ -11,6 +11,7 @@ body {
     background-image: url(../images/blurlogo.jpg);
     background-size: cover;
     background-position: center center;
+    height: 400px;
     margin-bottom: 29px;
 }
 
@@ -140,7 +141,6 @@ header .navbar-nav .btn:active {
 }
 
 
-/* --- */
 
 .jumbotron {
     background-color: transparent;
