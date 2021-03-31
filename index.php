@@ -69,7 +69,7 @@
                         <img src="images/birthday2.jpg" class="img-responsive">
                     </div>
                     <div class="subcontent col-md-6">
-                        <p>Birthday</p>
+                        <h1>Birthday</h1>
                         <p>
                             <!--content-->
                             <b>A new chapter of life for you , begins TODAY. <br> Say GOODBYE to your PAST and pave the way fro FUTURE.</b>
